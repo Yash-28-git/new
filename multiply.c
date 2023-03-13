@@ -1,4 +1,4 @@
 #include<stdio.h>
 void main(){
-    printf(5*6);
+    printf(5*7);
 }
